@@ -4,7 +4,8 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    border: none;
+    border: 0;
+  
 }
 
 body {
@@ -14,18 +15,6 @@ body {
 }
 
 /* Headings and Logo */
-
-li,
-a {
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 500;
-    font-size: 19px;
-    text-shadow: 2px 2px 4px black;
-    color: #252525;
-    text-decoration: none;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-}
 
 header {
     display: flex;
@@ -41,8 +30,20 @@ header {
     margin-right: auto;
 }
 
+/* navigation links */
+
+li,
+a {
+    font-size: 19px;
+    text-shadow: 2px 2px 4px black;
+    color: #252525;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
 .nav-links {
-    list-style: none;
+    list-style-type: none;
 
 }
 
@@ -64,4 +65,64 @@ header {
 
 .selected {
     border-bottom: 1px solid #000;
+}
+
+
+/* hero image and cover text*/
+
+#hero_outer {
+    height: 650px;
+    width: 100%;
+
+    position: relative;
+}
+
+#hero-image {
+    height: 650px;
+    width: 100%;
+    background: url("../Images/hero_image.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#cover-text {
+    font-size: 130%;
+    font-family: 'Montserrat', sans-serif;
+    text-shadow: 2px 2px 4px black;
+    letter-spacing: 4px;
+
+    width: 500px;
+    height: 550px;
+    border-radius: 3%;
+
+    padding: 40px 20px;
+
+
+    background-color: rgba(1, 53, 131, 0.541);
+
+    left: 20px;
+    bottom: 225px;
+
+
+    position: absolute;
+}
+
+#cover-text h2 {
+    color: skyblue;
+    text-shadow: 4px 4px 6px blue;
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+
+#cover-text h3 {
+    color: beige;
+}
+
+#cover-text h3 {
+    font-size: 1.2em;
+}
+
+#cover-text p {
+    color: whitesmoke;
 }
