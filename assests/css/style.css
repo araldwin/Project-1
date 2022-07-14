@@ -10,4 +10,58 @@
 body {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
+    color: #3a3a3a;
+}
+
+/* Headings and Logo */
+
+li,
+a {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 19px;
+    text-shadow: 2px 2px 4px black;
+    color: #252525;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 25px 0.5%;
+
+}
+
+#logo {
+    height: 60px;
+    width: 240px;
+    margin-right: auto;
+}
+
+.nav-links {
+    list-style: none;
+
+}
+
+
+.nav-links li {
+    display: inline-block;
+    padding: 0px 15px;
+}
+
+
+.nav-links li a {
+    transition: all 0.3s ease 0s;
+}
+
+.nav-links li a:hover {
+    color: blueviolet;
+    border-bottom: 1px solid blueviolet;
+}
+
+.selected {
+    border-bottom: 1px solid #000;
 }
