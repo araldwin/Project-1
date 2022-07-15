@@ -12,6 +12,7 @@ body {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
     color: #3a3a3a;
+    
 }
 
 /* Headings and Logo */
@@ -125,4 +126,70 @@ a {
 
 #cover-text p {
     color: whitesmoke;
+}
+
+/* Section2-Our Services */
+
+#section2-outer {
+    background-image: url(../Images/pexels-photo-457881.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+#section2-outer h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    text-align: center;
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    color: yellow;
+
+       
+    text-shadow: 4px 4px 6px black;
+}
+
+#our-services {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+
+}
+
+#the-house {
+    height: 650px;
+    width: 30%;
+    border-radius: 3%;
+    transition: 0.5s;
+    border: 8px outset skyblue;
+    background-image: url(../Images/house4.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#pool-beach {
+    height: 650px;
+    width: 30%;
+    border-radius: 3%;
+    transition: 0.5s;
+    border: 8px outset skyblue;
+    background-image: url(../Images/pool7.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+
+#activities {
+    height: 650px;
+    width: 30%;
+    border-radius: 3%;
+    transition: 0.5s;
+    border: 8px outset skyblue;
+    background-image: url(../Images/paddling.jpg);
+    background-size: cover;
+    background-position: center;
 }
