@@ -104,7 +104,7 @@ header li a {
     background-color: rgba(1, 53, 131, 0.541);
 
     left: 20px;
-    bottom: 165px;
+    bottom: 220px;
 
     position: absolute;
 }
@@ -400,7 +400,7 @@ header li a {
 
 .contact-in iframe {
     width: 100%;
-    height: 100%;
+    height: 90%;
 }
 
 /* Footer- Social links */
@@ -435,3 +435,92 @@ footer a:hover {
 footer:hover {
 opacity: 1;
 }
+
+/* Media quiries */
+
+ /* Large devices (laptops/desktops, 1485px and down) */
+ @media only screen and (max-width: 1485px) {
+
+    #cover-text {
+        
+        left: 20px;
+        bottom: 220px;
+    
+    }
+        
+    #section3-outer {
+        height: 700px;
+        width: 100%;
+        padding-bottom: 25px;
+      
+    }
+    
+    #section3-image {
+        height: 700px;
+        width: 100%;   
+        font-size: 2.3vmin;
+
+    }
+#section4-outer {
+    height: 450px;
+}
+
+.contact-wrap{
+   height: 450px;
+}
+
+    .contact-in iframe {
+        width: 100%;
+        height: 80%;
+
+    }
+     
+    .contact-in h1, .contact-in h2, .contact-in p {
+        font-size: 1.5rem;
+        letter-spacing: normal;
+        margin: auto;
+        padding-left: 15px;
+    }
+}
+ 
+/* Xtra-Large devices (laptops/desktops, 1305px and down) */
+@media only screen and (max-width: 1305px) {
+
+    #section4-outer {
+        height: 650px;
+    }
+    
+    .contact-wrap{
+       height: 650px;
+    }
+
+    .contact-in iframe {
+        width: 100%;
+        height: 200%;
+        margin-bottom: 100px;
+
+    }
+
+
+    .contact-in h1, .contact-in h2, .contact-in p {
+        font-size: 2rem;
+        letter-spacing: normal;
+        margin: auto;
+        padding-left: 15px;
+}
+
+}
+
+    /* Large devices (laptops/desktops, 1139px and down) */
+@media only screen and (max-width: 1139px) {
+
+     #section3-outer, #section3-image {
+        height: 750px;
+    }
+}
+
+
+    /* Large devices (laptops/desktops, 1064px and down) */
+    @media only screen and (max-width: 1064px) {
+
+    }
