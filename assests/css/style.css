@@ -160,7 +160,7 @@ a {
 
 }
 
-#the-house {
+.the-house {
     height: 650px;
     width: 30%;
     border-radius: 3%;
@@ -171,7 +171,37 @@ a {
     background-position: center;
 }
 
-#pool-beach {
+.the-house ul {
+    opacity: 0;
+    transform: scale(0);
+    transition: 0.8s;
+   
+}
+
+.the-house li {
+    color: #fff;
+    font-size: 1.5rem;
+    padding-top: 25px;
+    text-shadow: 2px 2px 4px black;
+    list-style: none;
+}
+
+
+.the-house:hover {
+    background-image: url(images/room.webp);
+    background-size: cover;
+    background-position: -1in;
+
+    box-shadow: 0 0 0 300px rgba(1, 53, 131, 0.541) inset;
+}
+
+.the-house:hover ul {
+    opacity: 1;
+    transform: scale(1);
+}
+
+
+.pool-beach {
     height: 650px;
     width: 30%;
     border-radius: 3%;
@@ -183,7 +213,7 @@ a {
 }
 
 
-#activities {
+.activities {
     height: 650px;
     width: 30%;
     border-radius: 3%;
