@@ -5,14 +5,14 @@
     margin: 0;
     padding: 0;
     border: 0;
-  
+
 }
 
 body {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
     color: #3a3a3a;
-    
+
 }
 
 /* Headings and Logo */
@@ -24,7 +24,8 @@ header {
     padding: 25px 0.5%;
 
 }
-header li a {   
+
+header li a {
     font-size: 19px;
     text-shadow: 2px 2px 4px black;
     color: #252525;
@@ -146,7 +147,7 @@ header li a {
     text-transform: uppercase;
     color: yellow;
 
-       
+
     text-shadow: 4px 4px 6px black;
 }
 
@@ -177,7 +178,7 @@ header li a {
     opacity: 0;
     transform: scale(0);
     transition: 0.8s;
-   
+
 }
 
 .the-house li {
@@ -194,7 +195,7 @@ header li a {
     background-size: cover;
     background-position: -1in;
 
-   /* box-shadow: 0 0 0 300px rgba(1, 53, 131, 0.541) inset;*/
+    /* box-shadow: 0 0 0 300px rgba(1, 53, 131, 0.541) inset;*/
 }
 
 .the-house:hover ul {
@@ -220,7 +221,7 @@ header li a {
     opacity: 0;
     transform: scale(0);
     transition: 0.8s;
-   
+
 }
 
 .pool-beach li {
@@ -230,6 +231,7 @@ header li a {
     text-shadow: 2px 2px 4px black;
     list-style: none;
 }
+
 .pool-beach:hover {
     background-image: url(../Images/sunset3.jpg);
     background-size: cover;
@@ -261,7 +263,7 @@ header li a {
     opacity: 0;
     transform: scale(0);
     transition: 0.8s;
-   
+
 }
 
 .activities li {
@@ -289,14 +291,12 @@ header li a {
 #section3-outer {
     height: 650px;
     width: 100%;
-    padding-bottom: 25px;
-    position: relative;
 
 }
 
 #section3-image {
-    height: 600px;
-    width: 100%;   
+    height: 650px;
+    width: 100%;
     background: url(../Images/beach1.png);
     background-size: 100% 100%;
     font-size: 1.3rem;
@@ -304,8 +304,10 @@ header li a {
     column-width: auto;
     padding: 1rem;
 }
- 
-#section3-image h1, #section3-image h2, #section3-image h3 {
+
+#section3-image h1,
+#section3-image h2,
+#section3-image h3 {
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     color: yellow;
@@ -316,4 +318,87 @@ header li a {
     color: white;
     text-shadow: 2px 2px 4px black;
 
+}
+
+/*section4-Contact Us */
+
+#section4-outer {
+    height: 650px;
+    width: 100%;
+    padding-top: 25px;
+    font-family: 'Montserrat', sans-serif;
+
+    background-image: url(../Images/pexels-photo-457881.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+
+}
+
+.contact-wrap {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    width: 100%;
+    height: 600px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.contact-in:nth-child(1) {
+    flex: 30%;
+
+    color: #000;
+}
+
+.contact-in:nth-child(2) {
+    flex: 70%;
+}
+
+.contact-in h1 {
+    font-size: 2.5rem;
+    color: yellow;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    margin-bottom: 20px;
+
+   
+    text-shadow: 4px 4px 6px black;
+}
+
+.contact-in h2 {
+    color: yellow;
+    font-size: 22px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    margin-bottom: 15px;
+    text-shadow: 2px 2px 4px black;
+}
+
+.contact-in h2 i {
+    font-size: 20px;
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    background: rgba(255, 255, 255, 0.541);
+    color: red;
+    border-radius: 50%;
+    line-height: 40px;
+    text-align: center;
+}
+
+.contact-in p {
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    letter-spacing: 4px;
+    text-shadow: 2px 2px 4px white;
+}
+
+
+.contact-in iframe {
+    width: 100%;
+    height: 100%;
 }
