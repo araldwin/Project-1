@@ -255,3 +255,30 @@ a {
     background-size: cover;
     background-position: center;
 }
+
+.activities ul {
+    opacity: 0;
+    transform: scale(0);
+    transition: 0.8s;
+   
+}
+
+.activities li {
+    font-size: 1.5rem;
+    color: white;
+    padding-top: 25px;
+    text-shadow: 3px 3px 6px black;
+    list-style: none;
+}
+
+.activities:hover {
+    background-image: url(images/krus1.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+
+.activities:hover ul {
+    opacity: 1;
+    transform: scale(1);
+}
