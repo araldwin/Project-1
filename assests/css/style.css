@@ -24,6 +24,15 @@ header {
     padding: 25px 0.5%;
 
 }
+header li a {   
+    font-size: 19px;
+    text-shadow: 2px 2px 4px black;
+    color: #252525;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+}
 
 #logo {
     height: 60px;
@@ -33,15 +42,6 @@ header {
 
 /* navigation links */
 
-li,
-a {
-    font-size: 19px;
-    text-shadow: 2px 2px 4px black;
-    color: #252525;
-    text-decoration: none;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-}
 
 .nav-links {
     list-style-type: none;
@@ -135,6 +135,7 @@ a {
     background-size: 100% 100%;
     padding-top: 25px;
     padding-bottom: 25px;
+
 }
 
 #section2-outer h1 {
@@ -272,7 +273,7 @@ a {
 }
 
 .activities:hover {
-    background-image: url(images/krus1.jpg);
+    background-image: url(../Images/krus1.jpg);
     background-size: cover;
     background-position: center;
 
@@ -281,4 +282,38 @@ a {
 .activities:hover ul {
     opacity: 1;
     transform: scale(1);
+}
+
+/*section3 Reyna Beach house */
+
+#section3-outer {
+    height: 650px;
+    width: 100%;
+    padding-bottom: 25px;
+    position: relative;
+
+}
+
+#section3-image {
+    height: 600px;
+    width: 100%;   
+    background: url(../Images/beach1.png);
+    background-size: 100% 100%;
+    font-size: 1.3rem;
+    column-count: 2;
+    column-width: auto;
+    padding: 1rem;
+}
+ 
+#section3-image h1, #section3-image h2, #section3-image h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    color: yellow;
+    text-shadow: 2px 2px 4px black;
+}
+
+#section3-image p {
+    color: white;
+    text-shadow: 2px 2px 4px black;
+
 }
