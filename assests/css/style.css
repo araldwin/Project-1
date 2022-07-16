@@ -639,7 +639,7 @@ footer:hover {
     }
 }
 /* Extra small devices (phones, 500px and down) */
-@media only screen and (max-width: 320px) {
+@media only screen and (m-width: 320px) {
 
         #cover-text {
             font-size: 12px;
