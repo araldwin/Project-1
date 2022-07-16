@@ -112,7 +112,7 @@ header li a {
 #cover-text h2 {
     color: skyblue;
     text-shadow: 4px 4px 6px blue;
-    font-size: 2rem;
+    font-size: 10vmin;
     text-transform: uppercase;
 }
 
@@ -639,19 +639,20 @@ footer:hover {
     }
 }
 
-    /* Extra small devices (phones, 400px and down) */
-@media only screen and (max-width: 400px) {
+    /* Extra small devices (phones, 540px and down) */
+@media only screen and (max-width: 540px) {
 
     #cover-text {
-        font-size: 12px;
-    
-        width: 280px;
-        height: 550px;
-       
-        left: 20px;
-       
-        top: 250px;
+        height: 100%;
+        width: 90%;
+        font-size: 4vmin;  
+        left: 0;
+       padding: 20px 10px;
+        top: 200px;
         
+}
+#cover-text h2 {
+    font-size: 6vmin;
 }
 }
 
