@@ -112,7 +112,7 @@ header li a {
 #cover-text h2 {
     color: skyblue;
     text-shadow: 4px 4px 6px blue;
-    font-size: 10vmin;
+    font-size: 2rem;
     text-transform: uppercase;
 }
 
