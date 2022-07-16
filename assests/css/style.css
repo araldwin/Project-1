@@ -28,7 +28,6 @@ header {
 header li a {
     font-size: 19px;
     text-shadow: 2px 2px 4px black;
-    color: #252525;
     text-decoration: none;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -178,6 +177,7 @@ header li a {
     opacity: 0;
     transform: scale(0);
     transition: 0.8s;
+
 
 }
 
@@ -523,4 +523,33 @@ opacity: 1;
     /* Large devices (laptops/desktops, 1064px and down) */
     @media only screen and (max-width: 1064px) {
 
+        .the-house li {
+            font-size: 2.3vmin;
+        }
     }
+
+    /* Medium devices (landscape tablets, 847px and down) */
+@media only screen and (max-width: 848px) {
+
+    #our-services {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    
+    }
+    
+    .the-house, .activities, .pool-beach  {
+        width: 100%;
+        height: 100%;
+        padding: 25px;
+        margin: 25px 0;
+        
+        
+    }
+    header li a {
+        letter-spacing: normal;
+    
+    }
+}
+
+
