@@ -437,6 +437,20 @@ footer:hover {
     opacity: 1;
 }
 
+/* Gallery Page */
+#gallery {
+    line-height: 1em;
+    column-count: 4;
+    column-gap: 1px;
+    background-image: url('../Images/pexels-photo-457881.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#gallery > img {
+    width: 100%;
+}
+
 /* Media quiries */
 
 /* Large devices (laptops/desktops, 1485px and down) */
@@ -543,6 +557,11 @@ footer:hover {
     .contact-in p {
         font-size: 2.5vmax;
     }
+
+    
+    #gallery {
+        column-count: 3;
+    }
 }
 
 /* Medium devices (landscape tablets, 847px and down) */
@@ -584,7 +603,12 @@ footer:hover {
     .contact-in p {
         font-size: 2.5vmax;
     }
+
+    #gallery {
+        column-count: 3;
+    }
 }
+
 
 /* Small devices (portrait tablets and large phones, 734px and down) */
 @media only screen and (max-width: 734px) {
