@@ -103,7 +103,7 @@ header li a {
     background-color: rgba(1, 53, 131, 0.541);
 
     left: 20px;
-    bottom: 220px;
+    bottom: 260px;
 
     position: absolute;
 }
@@ -138,7 +138,7 @@ header li a {
 
 }
 
-#section2-outer h1 {
+#section2-outer h2 {
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     text-align: center;
@@ -356,7 +356,7 @@ header li a {
     flex: 70%;
 }
 
-.contact-in h1 {
+.contact-in h2 {
     font-size: 2.5rem;
     color: yellow;
     text-transform: uppercase;
@@ -368,7 +368,7 @@ header li a {
     text-shadow: 4px 4px 6px black;
 }
 
-.contact-in h2 {
+.contact-in h3 {
     color: yellow;
     font-size: 22px;
     font-family: 'Montserrat', sans-serif;
@@ -377,7 +377,7 @@ header li a {
     text-shadow: 2px 2px 4px black;
 }
 
-.contact-in h2 i {
+.contact-in h3 i {
     font-size: 20px;
     width: 40px;
     height: 40px;
@@ -504,6 +504,10 @@ footer:hover {
 /* Xtra-Large devices (laptops/desktops, 1305px and down) */
 @media only screen and (max-width: 1305px) {
 
+    #cover-text {
+        top: 160px;
+    }
+
     #section4-outer {
         height: 650px;
     }
@@ -520,8 +524,8 @@ footer:hover {
     }
 
 
-    .contact-in h1,
     .contact-in h2,
+    .contact-in h3,
     .contact-in p {
         font-size: 2rem;
         letter-spacing: normal;
@@ -548,12 +552,12 @@ footer:hover {
         font-size: 2.3vmin;
     }
 
-    .contact-in h1 {
+    .contact-in h2 {
         text-align: center;
 
     }
 
-    .contact-in h2,
+    .contact-in h3,
     .contact-in p {
         font-size: 2.5vmax;
     }
@@ -599,7 +603,7 @@ footer:hover {
 
     }
 
-    .contact-in h2,
+    .contact-in h3,
     .contact-in p {
         font-size: 2.5vmax;
     }
@@ -628,8 +632,25 @@ footer:hover {
 
     }
 
-    .contact-in h2,
+    .contact-in h3,
     .contact-in p {
         font-size: 2.5vmax;
     }
+}
+/* Extra small devices (phones, 500px and down) */
+@media only screen and (max-width: 500x) {
+
+    #cover-text {
+        /* font-size: 130%; */
+    
+        letter-spacing: 4px;
+        width: 90%;
+        
+        padding: 40px 20px;
+        
+        left: 15px;
+        top: 165px;
+      
+    }
+
 }
