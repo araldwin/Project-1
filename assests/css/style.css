@@ -103,7 +103,8 @@ header li a {
     background-color: rgba(1, 53, 131, 0.541);
 
     left: 20px;
-    bottom: 260px;
+    bottom: 230px;
+    top: 170px;
 
     position: absolute;
 }
@@ -638,19 +639,18 @@ footer:hover {
     }
 }
 /* Extra small devices (phones, 500px and down) */
-@media only screen and (max-width: 500x) {
+@media only screen and (max-width: 320x) {
 
-    #cover-text {
-        /* font-size: 130%; */
-    
-        letter-spacing: 4px;
-        width: 90%;
+        #cover-text {
+            font-size: 12px;
         
-        padding: 40px 20px;
-        
-        left: 15px;
-        top: 165px;
-      
+            width: 280px;
+            height: 550px;
+           
+            left: 20px;
+           
+            top: 250px;
+            
     }
-
 }
+
