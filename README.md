@@ -1,108 +1,36 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![IMG_20220703_115103](https://user-images.githubusercontent.com/107774953/179590360-b0a31843-0843-4753-9cdd-a8d8f25e3213.png)
 
-Welcome araldwin,
+## Reyna beach house(a Portfolio Project 1)
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+This Private beach house is a page for people who are looking for a great spot to kick back and relax. the place for the whole family to enjoy their weekends, holidays, or even special occasions, for a group of friends, and a company looking a team-building place beside the beach. 
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+users of this website will be able to find information about Reyna beach house Rooms, Services, Bookings, and Contacts with maps and they can see photos of the house and its surroundings. 
 
-## Gitpod Reminders
+I made this Webpage for my Relative who owns the Beach House. 
+![Reyna Beach house HOme page PP1](https://user-images.githubusercontent.com/107774953/179602390-13667f1f-e4eb-4bb7-bf39-5b1278e12780.png)
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
-
-`python3 -m http.server`
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
-------
-
-## Release History
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
-
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
-
-**July 2 2021:** Remove extensions that are not available in Open VSX.
-
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
-
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
-
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
-
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
-------
-
-## FAQ about the uptime script
-
-**Why have you added this script?**
-
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
-
-**How will this affect me?**
-
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
-
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
-
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
-
-**So….?**
-
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
-
-**Can I opt out?**
-
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
-
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
-
----
-
-Happy coding!
+## Features
+ - NAVIGATION
+![RBH-Navbar](https://user-images.githubusercontent.com/107774953/179603064-fa56a707-0738-47d3-8b60-da7aa81f0af0.png)
+  - At the top left of the page, you can see the REYNA BEACH HOUSE LOGO.
+  - LOGO is custom-made using the Logo Designer App on my mobile phone.
+  - to the top right corner you can see HOME, SERVICES, GALLERY, BOOK NOW!.
+  - colors of the font text are based on what the owner of the beach house wanted
+  - I used hover to the links to look more responsive and with text shadow.
+  -----
+  - HERO SECTION
+  ![RBH-Hero_Section](https://user-images.githubusercontent.com/107774953/179726596-ecf8059d-e2cf-40b5-9088-2afc9880de69.png)
+   - The hero section shows the name of the beach house.
+  - also show the part of the back part of the house with its pool.
+  - it clearly shows that this is a Rent to-own private beach house beside the ocean.
+  -----
+  
+  - OUR SERVICES SECTION
+  ![RBH-service-section](https://user-images.githubusercontent.com/107774953/179727772-981d1a83-92de-47ae-9699-394bb1cafb67.png)
+  -  In this section, I used a background image downloaded from google image(disclaimer! credits to the owner of the image, this image will be used for project purposes only and will be changed if it will be used in the future if this will be used as a website for business).
+ - Use yellow font-color yellow in OUR SERVICE text so that the user could see it.
+-  this part is divided into three divisions which are THE HOUSE, POOL & BEACH, and ACTIVITIES.
+  - I added hover features to those three images and when the user select it I will show different image and information about  THE HOUSE, POOL & BEACH, and ACTIVITIES.
+- I also add a border outset to look the image more beautiful and boast.
+- add transform effect to look cooler.
+-----
