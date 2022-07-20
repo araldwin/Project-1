@@ -53,3 +53,19 @@ I made this Webpage for my Relative who owns the Beach House.
 - this section is for social links where the user can visit Facebook, Instagram,and where they can book Airbnb.
 - I use display: fixed into this section so that this will stay even the user scroll it.
 - I also added anopacity 0.5 and when it hovers opicity 1 to look transparent when scrolling.
+  -----
+   ## TESTING
+  ![Project1amiresponsive](https://user-images.githubusercontent.com/107774953/180000446-da244e95-3235-4847-8b3e-0b9ee4c0612c.png)
+  - this page works in different browsers: Chrome, icrosft Edge, Safari.
+  - I confirmed also that this project is responsive on all standard screen sizes using the devtools device toolbar.
+  - I have confirmed that home, services, gallery, book now, Facebookgram, Airbnbs are working when clicked.
+
+## BUGS
+![Screenshot 2022-07-16 161929](https://user-images.githubusercontent.com/107774953/180003892-7593afb6-3f3a-45ed-a77d-030928dac8c3.png)
+- when I deploy my page to Github I notice that the cover text  in Hero-image is not in its correct place when using standard screen sizes
+- to fix this issue: I adjust manually all the Dimension Responsive on every given standard screen sizes from am i responsive.
+- and adjust the hero section's cover-text styles.
+
+![RBH-bugfixed](https://user-images.githubusercontent.com/107774953/180005446-25b7391a-ffe7-4e90-8f15-3b6c39395f3d.png)
+![RBH-viewports](https://user-images.githubusercontent.com/107774953/180005459-ba4729fa-39c4-46ba-9dbf-90c75b111fbe.png)
+
