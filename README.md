@@ -43,9 +43,9 @@ I made this Webpage for my Relative who owns the Beach House.
 -----
 - CONTACT US SECTION
  ![RBH-contact-us](https://user-images.githubusercontent.com/107774953/179750165-f2170a24-59de-4edd-83b4-88c3e3b92c53.png)
--into this section, I use again the background image from OUR SERVICE SECTION.
--this is where the user could see our contact number, an email address where they can message us, the address of the Beach house, and the map beside it.
--I use an iframe to have this google maps for easy directions.
+- into this section, I use again the background image from OUR SERVICE SECTION.
+- this is where the user could see our contact number, an email address where they can message us, the address of the Beach house, and the map beside it.
+- I use an iframe to have this google maps for easy directions.
 -----
 - FOOTER
 ![RBH-footer](https://user-images.githubusercontent.com/107774953/179751907-71b108d2-7c44-4263-b143-00d38e4532fd.png)
@@ -56,10 +56,10 @@ I made this Webpage for my Relative who owns the Beach House.
   -----
    ## TESTING
   ![Project1amiresponsive](https://user-images.githubusercontent.com/107774953/180000446-da244e95-3235-4847-8b3e-0b9ee4c0612c.png)
-  - this page works in different browsers: Chrome, icrosft Edge, Safari.
+  - This page works in different browsers: Chrome, icrosft Edge, Safari.
   - I confirmed also that this project is responsive on all standard screen sizes using the devtools device toolbar.
   - I have confirmed that home, services, gallery, book now, Facebookgram, Airbnbs are working when clicked.
-
+ -----
 ## BUGS
 ![Screenshot 2022-07-16 161929](https://user-images.githubusercontent.com/107774953/180003892-7593afb6-3f3a-45ed-a77d-030928dac8c3.png)
 - when I deploy my page to Github I notice that the cover text  in Hero-image is not in its correct place when using standard screen sizes
@@ -68,4 +68,41 @@ I made this Webpage for my Relative who owns the Beach House.
 
 ![RBH-bugfixed](https://user-images.githubusercontent.com/107774953/180005446-25b7391a-ffe7-4e90-8f15-3b6c39395f3d.png)
 ![RBH-viewports](https://user-images.githubusercontent.com/107774953/180005459-ba4729fa-39c4-46ba-9dbf-90c75b111fbe.png)
+ -----
+## Validator Testing
+- HTML
+![RBH-HTMLchecker](https://user-images.githubusercontent.com/107774953/180232327-43c0b49a-b631-4cae-b871-0c61a47da974.png)
+
+ -----
+
+- CSS
+![RBH-CSSvalidator](https://user-images.githubusercontent.com/107774953/180232382-0367d362-d29c-4cce-adac-2eda1f1c6bba.png)
+
+-----
+
+- Accessibility
+- colors and fonts are easy to read and accessible by running through lighthouse in devtools.
+![RBH-lighthouse](https://user-images.githubusercontent.com/107774953/180235429-033cf9b4-0d8a-424a-b42e-a0c592f14ec9.png)
+
+-----
+
+## DEPLOYMENT
+- The site was deplyoed to Github pages.
+
+## CREDITS
+
+# Content
+ - some ideas of codes comes from Love Running Prjocet and Coders Coffee Project.
+ - the beach house belongs to my relatives.
+ - all the photos downloaded from Reyna beach house Facebook and Airbnb account.
+ - google maps for iframe
+ - google images for Section2, section4 and footer back-ground.
+ - Fontawesome.com for text icons
+ - foonts.google.com for font-styles
+ 
+ # Others
+  - https://ui.dev/amiresponsive for standard screen images
+ - w3schools.com
+ - learn.codeinsitute.net
+ 
 
