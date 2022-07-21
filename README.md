@@ -65,6 +65,13 @@ I made this Webpage for my Relative who owns the Beach House.
 - I use display: fixed into this section so that this will stay even the user scroll it.
 - I also added anopacity 0.5 and when it hovers opicity 1 to look transparent when scrolling.
   -----
+  
+  ## GALLERY
+  - this will provide the user with supporting images to see what Reyna beach house looks like.
+  
+  ![RBH-Gallery](https://user-images.githubusercontent.com/107774953/180254809-6e32209c-889c-4143-a760-8d15bf842a76.png)
+
+  
    ## TESTING
   ![Project1amiresponsive](https://user-images.githubusercontent.com/107774953/180000446-da244e95-3235-4847-8b3e-0b9ee4c0612c.png)
   - This page works in different browsers: Chrome, icrosft Edge, Safari.
