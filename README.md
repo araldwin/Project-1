@@ -11,6 +11,14 @@ I made this Webpage for my Relative who owns the Beach House.
 
 ## Table of Contents
 * [Reyna beach house]
+* [Features]
+* [Testing]
+* [Bugs]
+* [Validator testing]
+* [Deployment]
+* [Room for Improvement]
+* [Acknowledgement]
+* [Contact]
 
 ## Features
  ### NAVIGATION
@@ -101,7 +109,7 @@ I made this Webpage for my Relative who owns the Beach House.
 
 ## Acknowledements
 
-## Content
+### Content
  - some ideas of codes comes from Love Running Prjocet and Coders Coffee Project.
  - the beach house belongs to my relatives.
  - all the photos downloaded from Reyna beach house Facebook and Airbnb account.
@@ -112,10 +120,11 @@ I made this Webpage for my Relative who owns the Beach House.
 
 
  
- ## Others
+ ### Others
   - https://ui.dev/amiresponsive for standard screen images
  - w3schools.com
  - learn.codeinsitute.net
+ - 
  
 
 ## Contact
