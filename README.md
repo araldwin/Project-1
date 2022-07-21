@@ -23,8 +23,8 @@ I made this Webpage for my Relative who owns the Beach House.
 * [Contact]
 
 ## TECHNOLOGIES USED
-- HTML
-- CSS
+- HTML5
+- CSS3
 - GITHUB
 - GITPOD
 
@@ -101,7 +101,10 @@ I made this Webpage for my Relative who owns the Beach House.
 ![RBH-lighthouse](https://user-images.githubusercontent.com/107774953/180235429-033cf9b4-0d8a-424a-b42e-a0c592f14ec9.png)
 -----
 ## DEPLOYMENT
-- The site was deplyoed to Github pages.
+- The site was deplyoed to Github pages. steps to deploy are follows:
+  - in the Github repository, navigate to the Setting Tab
+  - From the source section drop-down menu, select the Master Branch.
+  - Oncve the master branch has been selected, the page provided the link to the completed website.
 -----
 ## Room for Improvement
 - I believe it can improve if there will be a good quality of photos and not uploaded from social media.
