@@ -121,4 +121,4 @@ I made this Webpage for my Relative who owns the Beach House.
  - learn.codeinsitute.net
 -----
 ## Contact
-Created by araldwin - feeö free to contact me!
+Created by araldwin - feel free to contact me!
