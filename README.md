@@ -9,6 +9,9 @@ users of this website will be able to find information about Reyna beach house R
 I made this Webpage for my Relative who owns the Beach House. 
 ![Reyna Beach house HOme page PP1](https://user-images.githubusercontent.com/107774953/179602390-13667f1f-e4eb-4bb7-bf39-5b1278e12780.png)
 
+## Table of Contents
+* [Reyna beach house]
+
 ## Features
  ### NAVIGATION
 ![RBH-Navbar](https://user-images.githubusercontent.com/107774953/179603064-fa56a707-0738-47d3-8b60-da7aa81f0af0.png)
@@ -89,7 +92,14 @@ I made this Webpage for my Relative who owns the Beach House.
 ## DEPLOYMENT
 - The site was deplyoed to Github pages.
 
-## CREDITS
+-----
+
+## Room for Improvement
+- I believe it can improve if there will be a good quality of photos and not uploaded from social media.
+
+-----
+
+## Acknowledements
 
 ## Content
  - some ideas of codes comes from Love Running Prjocet and Coders Coffee Project.
@@ -99,6 +109,8 @@ I made this Webpage for my Relative who owns the Beach House.
  - google images for Section2, section4 and footer back-ground.
  - Fontawesome.com for text icons
  - foonts.google.com for font-styles
+
+
  
  ## Others
   - https://ui.dev/amiresponsive for standard screen images
@@ -106,3 +118,5 @@ I made this Webpage for my Relative who owns the Beach House.
  - learn.codeinsitute.net
  
 
+## Contact
+Created by araldwin - feeö free to contact me!
