@@ -107,7 +107,7 @@ I made this Webpage for my Relative who owns the Beach House.
 
 -----
 
-## Acknowledements
+## ACKNOWLEDGEMENT
 
 ### Content
  - some ideas of codes comes from Love Running Prjocet and Coders Coffee Project.
