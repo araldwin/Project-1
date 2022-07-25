@@ -56,12 +56,12 @@ header li a {
 }
 
 .nav-links li a:hover {
-    color: blueviolet;
-    border-bottom: 1px solid blueviolet;
+    color: #8A2BE2;
+    border-bottom: 1px solid #8A2BE2;
 }
 
 .selected {
-    border-bottom: 1px solid blue;
+    border-bottom: 1px solid  #0000FF;
 }
 
 /* hero image and cover text*/
@@ -85,7 +85,7 @@ header li a {
 #cover-text {
     font-size: 130%;
     font-family: 'Montserrat', sans-serif;
-    text-shadow: 2px 2px 4px black;
+    text-shadow: 2px 2px 4px #000;
     letter-spacing: 4px;
 
     width: 500px;
@@ -105,14 +105,14 @@ header li a {
 }
 
 #cover-text h2 {
-    color: skyblue;
-    text-shadow: 4px 4px 6px blue;
+    color: sky #0000FF;
+    text-shadow: 4px 4px 6px  #0000FF;
     font-size: 2rem;
     text-transform: uppercase;
 }
 
 #cover-text h3 {
-    color: beige;
+    color:  #F5F5DC;
 }
 
 #cover-text h3 {
@@ -120,7 +120,7 @@ header li a {
 }
 
 #cover-text p {
-    color: whitesmoke;
+    color: #f5f5f5;
 }
 
 /* Section2-Our Services */
@@ -140,8 +140,8 @@ header li a {
     text-align: center;
     font-size: 2.5rem;
     text-transform: uppercase;
-    color: yellow;
-    text-shadow: 4px 4px 6px black;
+    color: #FFFF00;
+    text-shadow: 4px 4px 6px #000;
 }
 
 #our-services {
@@ -160,7 +160,7 @@ header li a {
     width: 30%;
     border-radius: 3%;
     transition: 0.5s;
-    border: 8px outset skyblue;
+    border: 8px outset sky #0000FF;
     background-image: url(../Images/house4.jpg);
     background-size: cover;
     background-position: center;
@@ -176,7 +176,7 @@ header li a {
     color: #fff;
     font-size: 1.5rem;
     padding-top: 25px;
-    text-shadow: 2px 2px 4px black;
+    text-shadow: 2px 2px 4px #000;
     list-style: none;
 }
 
@@ -199,7 +199,7 @@ header li a {
     width: 30%;
     border-radius: 3%;
     transition: 0.5s;
-    border: 8px outset skyblue;
+    border: 8px outset sky #0000FF;
     background-image: url(../Images/pool7.jpg);
     background-size: cover;
     background-position: center;
@@ -216,7 +216,7 @@ header li a {
     color: #fff;
     font-size: 1.5rem;
     padding-top: 25px;
-    text-shadow: 2px 2px 4px black;
+    text-shadow: 2px 2px 4px #000;
     list-style: none;
 }
 
@@ -238,7 +238,7 @@ header li a {
     width: 30%;
     border-radius: 3%;
     transition: 0.5s;
-    border: 8px outset skyblue;
+    border: 8px outset sky #0000FF;
     background-image: url(../Images/paddling.jpg);
     background-size: cover;
     background-position: center;
@@ -253,9 +253,9 @@ header li a {
 
 .activities li {
     font-size: 1.5rem;
-    color: white;
+    color: #fff;
     padding-top: 25px;
-    text-shadow: 3px 3px 6px black;
+    text-shadow: 3px 3px 6px #000;
     list-style: none;
 }
 
@@ -295,13 +295,13 @@ header li a {
 #section3-image h3 {
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
-    color: yellow;
-    text-shadow: 2px 2px 4px black;
+    color: #FFFF00;
+    text-shadow: 2px 2px 4px #000;
 }
 
 #section3-image p {
-    color: white;
-    text-shadow: 2px 2px 4px black;
+    color: #fff;
+    text-shadow: 2px 2px 4px #000;
 
 }
 
@@ -342,23 +342,23 @@ header li a {
 
 .contact-in h2 {
     font-size: 2.5rem;
-    color: yellow;
+    color: #FFFF00;
     text-transform: uppercase;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     margin-bottom: 20px;
 
 
-    text-shadow: 4px 4px 6px black;
+    text-shadow: 4px 4px 6px #000;
 }
 
 .contact-in h3 {
-    color: yellow;
+    color: #FFFF00;
     font-size: 22px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     margin-bottom: 15px;
-    text-shadow: 2px 2px 4px black;
+    text-shadow: 2px 2px 4px #000;
 }
 
 .contact-in h3 i {
@@ -378,7 +378,7 @@ header li a {
     font-weight: 500;
     margin-bottom: 20px;
     letter-spacing: 4px;
-    text-shadow: 2px 2px 4px white;
+    text-shadow: 2px 2px 4px #fff;
 }
 
 
@@ -414,7 +414,7 @@ footer a {
 }
 
 footer a:hover {
-    color: blue;
+    color:  #0000FF;
 }
 
 footer:hover {
