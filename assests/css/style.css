@@ -36,7 +36,7 @@ header li a {
 
 #logo {
     height: 60px;
-    width: 240px;
+    width: 15%;
     margin-right: auto;
 }
 
@@ -87,25 +87,19 @@ header li a {
     font-family: 'Montserrat', sans-serif;
     text-shadow: 2px 2px 4px #000;
     letter-spacing: 4px;
-
-    width: 500px;
+    width: 25%;
     height: 550px;
     border-radius: 3%;
-
     padding: 40px 20px;
-
-
     background-color: rgba(1, 53, 131, 0.541);
-
     left: 20px;
     bottom: 230px;
     top: 170px;
-
     position: absolute;
 }
 
 #cover-text h2 {
-    color: sky #0000FF;
+    color:#87CEEB;
     text-shadow: 4px 4px 6px  #0000FF;
     font-size: 2rem;
     text-transform: uppercase;
@@ -363,11 +357,11 @@ header li a {
 
 .contact-in h3 i {
     font-size: 20px;
-    width: 40px;
+    width: 7%;
     height: 40px;
     margin-right: 10px;
     background: rgba(255, 255, 255, 0.541);
-    color: red;
+    color: 	#FF0000;
     border-radius: 50%;
     line-height: 40px;
     text-align: center;
@@ -452,7 +446,6 @@ footer:hover {
     max-width: 700px;
     height: 700px;
 
-
 }
 
 .form-text {
@@ -527,15 +520,16 @@ footer:hover {
 
 #submit input {
     font-family: 'Montserrat', sans-serif;
-    width: 200px;
+    width: 25%;
     transition: all .3s ease;
+    opacity: .7;
 }
 
 #submit input:hover {
     font-family: 'Montserrat', sans-serif;
-    width: 200px;
+    width: 25%;
     background-color: #87CEEB !important;
-    opacity: .5;
+    opacity: 1;
     color: #000;
 }
 
