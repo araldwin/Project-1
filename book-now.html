@@ -13,32 +13,67 @@
 
 </head>
 
-<body>
-    <header>
-        <img id="logo" src="assests/Images/IMG_20220703_115103.png" alt="reynabeachlogo" />
-        <nav>
-            <ul class="nav-links">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="gallery.html" class="selected">Gallery</a></li>
-                <li>
-                    <a class="cta"
-                        href="https://www.airbnb.com/rooms/23448774?preview_for_ml=true&source_impression_id=p3_1614950177_LzMpH%2B0D6xhHznF3&guests=1&adults=1&locale=en&country_override=US&fbclid=IwAR2I9n8-IUq932Scw8cVvXiKAnvELjNym4w30eDufsxO_1c7THm6ZF6MG-U"
-                        target="_blank">Book Now!</a>
-                </li>
-            </ul>
-        </nav>
-    </header>
+<body class="book-now-bg">
 
-
-    <body class="book-now-bg">
-        <div class="form">
-            <div class="form-text">
-
-            </div>
-            <div class="main-form"></div>
+    <div class="form">
+        <div class="form-text">
+            <h1><span>Book Now!</span></h1>
+            <p><a href="index.html" class="selected">back to home</a></p>
         </div>
-        
-    </body>
+        <div class="main-form">
+            <form
+                action="https://www.airbnb.com/rooms/23448774?preview_for_ml=true&source_impression_id=p3_1614950177_LzMpH%2B0D6xhHznF3&guests=1&adults=1&locale=en&country_override=US&fbclid=IwAR2I9n8-IUq932Scw8cVvXiKAnvELjNym4w30eDufsxO_1c7THm6ZF6MG-U"
+                method="get">
+                <div>
+                    <span>Full name</span>
+                    <input type="text" name="name" id="name" placeholder="Write your full name here..." required>
+                </div>
+                <div>
+                    <span>Email address</span>
+                    <input type="text" name="email" id="email" placeholder="Write your email here..." required>
+                </div>
+                <div>
+                    <span>How many people ?</span>
+                    <select name="people" id="people" required>
+                        <option value="">
+                            <---People--->
+                        </option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="10">10</option>
+                        <option value="11">11</option>
+                        <option value="12">12</option>
+                        <option value="13">13</option>
+                        <option value="14">14</option>
+                        <option value="15">15</option>
+                        <option value="more">more</option>
+                    </select>
+                </div>
+                <div>
+                    <span>Booking time</span>
+                    <input type="text" name="time" id="time" placeholder="Time" required>
+                </div>
+                <div>
+                    <span>Booking date</span>
+                    <input type="date" name="date" id="date" placeholder="date" required>
+                </div>
+                <div>
+                    <span>Contac number</span>
+                    <input type="number" name="number" id="number" placeholder="Write your number here..." required>
+                </div>
+                <div id="submit">
+                    <input type="submit" value="SUBMIT" id="submit"></input>
+                </div>
+
+            </form>
+        </div>
+    </div>
 
     <footer>
         <div class="footer-background">
