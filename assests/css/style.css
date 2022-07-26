@@ -634,7 +634,7 @@ footer:hover {
 @media only screen and (max-width: 1064px) {
 
     #cover-text {
-        width: 50%;
+        width: 60%;
     }
 
     .the-house li {
@@ -657,11 +657,11 @@ footer:hover {
     }
 }
 
-/* Medium devices (landscape tablets, 847px and down) */
+/* Medium devices (landscape tablets, 848px and down) */
 @media only screen and (max-width: 848px) {
 
     #cover-text {
-        width: 60%;
+        width: 65%;
     }
 
     header li a {
@@ -715,6 +715,11 @@ footer:hover {
 /* Small devices (portrait tablets and large phones, 734px and down) */
 @media only screen and (max-width: 734px) {
 
+
+    #cover-text {
+        width: 80%;
+    }
+
     .nav-links {
         text-align: center;
     }
@@ -741,7 +746,7 @@ footer:hover {
 
     #cover-text {
         height: 100%;
-        width: 90%;
+        width: 100%;
         font-size: 4vmin;
         left: 0;
         padding: 20px 10px;
