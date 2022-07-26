@@ -154,7 +154,7 @@ header li a {
     width: 30%;
     border-radius: 3%;
     transition: 0.5s;
-    border: 8px outset sky #0000FF;
+    border: 8px outset #0000FF;
     background-image: url(../Images/house4.jpg);
     background-size: cover;
     background-position: center;
@@ -193,7 +193,7 @@ header li a {
     width: 30%;
     border-radius: 3%;
     transition: 0.5s;
-    border: 8px outset sky #0000FF;
+    border: 8px outset #0000FF;
     background-image: url(../Images/pool7.jpg);
     background-size: cover;
     background-position: center;
@@ -232,7 +232,7 @@ header li a {
     width: 30%;
     border-radius: 3%;
     transition: 0.5s;
-    border: 8px outset sky #0000FF;
+    border: 8px outset #0000FF;
     background-image: url(../Images/paddling.jpg);
     background-size: cover;
     background-position: center;
@@ -512,20 +512,20 @@ footer:hover {
     text-shadow: 2px 2px 4px #fff;
 }
 
-#submit {
+#continue {
     width: 100%;
     text-align: center;
     cursor: pointer;
 }
 
-#submit input {
+#continue input {
     font-family: 'Montserrat', sans-serif;
     width: 25%;
     transition: all .3s ease;
     opacity: .7;
 }
 
-#submit input:hover {
+#continue input:hover {
     font-family: 'Montserrat', sans-serif;
     width: 25%;
     background-color: #87CEEB !important;
