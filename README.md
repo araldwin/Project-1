@@ -25,14 +25,14 @@ as a developer, I want to be able to inform and show users how beautiful the pla
 - ### A Simple, Easy to Remember URL:[Reyna beach house](https://araldwin.github.io/Project-1/)
 -----
 - ### A Clear Description of My Business
-![RBH-features](https://user-images.githubusercontent.com/107774953/181042494-0c286f2a-07d0-4534-a1d4-f4bf0fca98e9.png)
+![RBH-features](/docs/RBH-features.png)
 -----
 - ### Call to Actions
-![RBH-calltoacktion](https://user-images.githubusercontent.com/107774953/181045295-d625a3b3-e709-4f31-83a8-f821cd66ffd8.png)
+![RBH-calltoacktion](/docs/RBH-calltoacktion.png)
 -----
 - ### Contact Information:
-![RBH-contactinfo](https://user-images.githubusercontent.com/107774953/181045853-73def65a-ae4e-4925-86a6-96222d9c1c6e.png)
+![RBH-contactinfo](/docs/RBH-contactinfo.pngdocs
 -----
 - ### This website is mobile friendly or responsive design that fits standard screen sizes.
-![RBH-iamresponsive](https://user-images.githubusercontent.com/107774953/181046385-eacbd53c-92d8-45b1-b482-6af60c4750df.png)
+![RBH-iamresponsive](/docs/RBH-iamresponsive.png)
 -----
