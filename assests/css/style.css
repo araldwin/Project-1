@@ -651,6 +651,10 @@ footer:hover {
 /* Medium devices (landscape tablets, 847px and down) */
 @media only screen and (max-width: 848px) {
 
+    #cover-text {
+        width: 60%;
+    }
+
     header li a {
         letter-spacing: normal;
     }
