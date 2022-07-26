@@ -539,7 +539,7 @@ footer:hover {
 @media only screen and (max-width: 1485px) {
 
     #cover-text {
-
+        width: 40%;
         left: 20px;
         bottom: 220px;
 
