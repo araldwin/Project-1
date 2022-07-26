@@ -87,7 +87,7 @@ header li a {
     font-family: 'Montserrat', sans-serif;
     text-shadow: 2px 2px 4px #000;
     letter-spacing: 4px;
-    width: 25%;
+    width: 30%;
     height: 550px;
     border-radius: 3%;
     padding: 40px 20px;
@@ -587,6 +587,7 @@ footer:hover {
 @media only screen and (max-width: 1305px) {
 
     #cover-text {
+        width: 40%;
         top: 160px;
     }
 
