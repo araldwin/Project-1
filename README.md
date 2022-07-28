@@ -42,4 +42,4 @@ as a developer, I want to be able to inform and show users how beautiful the pla
 ![RBH-typhograpghy](/docs/RBH-typhography.png)
 ### Color Scheme
 - in this website I used colors blue violet #8A2BE2, sky blue #87CEEB, blue #0000FF, white #FFFFFF, yellow #FFFF00, and black #000000 for the font-texts. and other specified colors such as beige #F5F5DC, cultured #F5F5F5 are for the background of other elements, and red for the Contact us Icon. I used these colors to match and have a beach house atmosphere. so that the user can clearly read such a website it is cool to the eyes and relaxing color.
-![RBH-colorscheme](docs/RBH-colorscheme.png)
+![RBH-colorscheme](docs/RBH-colorscheme.png)(https://www.pinterest.de/pin/1002965779489167600/)
