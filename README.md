@@ -31,8 +31,12 @@ as a developer, I want to be able to inform and show users how beautiful the pla
 ![RBH-calltoacktion](/docs/RBH-calltoacktion.png)
 -----
 - ### Contact Information:
-![RBH-contactinfo](/docs/RBH-contactinfo.pngdocs
+![RBH-contactinfo](/docs/RBH-contactinfo.png)
 -----
 - ### This website is mobile friendly or responsive design that fits standard screen sizes.
 ![RBH-iamresponsive](/docs/RBH-iamresponsive.png)
 -----
+## Typography and color scheme
+- I used 2 fonts in this project, they are Monserrat and Lato, Monserrat for Headings and Lato for the rest, with both fall backs being Sans-serif. This Font is simple and adapted to the website and it is linked to the CSS document via @import.
+![RBH-typhograpghy](/docs/RBH-typhography.png)
+
