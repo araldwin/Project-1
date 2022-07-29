@@ -51,6 +51,7 @@ header li a {
     display: inline-block;
     padding: 0px 15px;
 }
+
 .nav-links li a {
     transition: all 0.3s ease 0s;
 }
@@ -61,7 +62,7 @@ header li a {
 }
 
 .selected {
-    border-bottom: 1px solid  #0000FF;
+    border-bottom: 1px solid #0000FF;
 }
 
 /* hero image and cover text*/
@@ -99,14 +100,14 @@ header li a {
 }
 
 #cover-text h2 {
-    color:#87CEEB;
-    text-shadow: 4px 4px 6px  #0000FF;
+    color: #87CEEB;
+    text-shadow: 4px 4px 6px #0000FF;
     font-size: 2rem;
     text-transform: uppercase;
 }
 
 #cover-text h3 {
-    color:  #F5F5DC;
+    color: #F5F5DC;
 }
 
 #cover-text h3 {
@@ -361,7 +362,7 @@ header li a {
     height: 40px;
     margin-right: 10px;
     background: rgba(255, 255, 255, 0.541);
-    color: 	#FF0000;
+    color: #FF0000;
     border-radius: 50%;
     line-height: 40px;
     text-align: center;
@@ -408,7 +409,7 @@ footer a {
 }
 
 footer a:hover {
-    color:  #0000FF;
+    color: #0000FF;
 }
 
 footer:hover {
@@ -538,25 +539,27 @@ footer:hover {
 .thankyou-bg {
     background-image: url(../Images/swing1.webp);
     background-repeat: no-repeat;
-    background-size:cover;
+    background-size: cover;
     max-width: 100%;
     height: 100%;
     text-align: center;
 }
+
 .thankyou-container {
     text-align: center;
     max-width: 35%;
     height: 100%;
     margin: 0 auto;
     letter-spacing: 4px;
-    
+
 }
+
 .thankyou-container h1 {
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     text-shadow: 2px 2px 4px #000;
     font-size: 50px;
-    color:#87CEEB;
+    color: #87CEEB;
     opacity: .9;
     padding: 50px 0;
 }
@@ -566,12 +569,66 @@ footer:hover {
     font-family: 'Lato', sans-serif;
     font-weight: 700;
     font-size: 25px;
-    color:#000;
+    color: #000;
 }
 
+/*404 page not working*/
 
+.not-found-bg {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif !important;
+    min-height: 100vh;
+    background-image: linear-gradient(125deg, #0000FF, #87CEEB, #8A2BE2);
+}
 
+.not-found-container {
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: #000;
+}
 
+.not-found-container h1{
+    font-size: 200px;
+    padding: 50px;
+    margin: 0;
+    font-weight: 900;
+    letter-spacing: 20px;
+    background: url(../Images/sunset.jpg) center no-repeat;
+    text-shadow: 2px 2px 4px #fff;
+
+}
+
+.not-found-container h2{
+padding: 50px;
+font-size: 35px;
+text-shadow: 2px 2px 4px #fff;
+}
+
+.not-found-container p{
+    padding: 50px;
+    font-size: 30px;
+    text-shadow: 2px 2px 4px #fff;
+}
+
+.not-found-container a{
+    text-decoration: none;
+    background: #8A2BE2;
+    color: #fff;
+    padding: 16px 24px;
+    display: inline-block;
+    border-radius: 25px;
+    font-size: 14px;
+    text-transform: uppercase;
+    transition: 0.4s;
+}
+.not-found-container a:hover {
+    background: #0000FF;
+    
+}
 /* Media quiries */
 
 /* Large devices (laptops/desktops, 1485px and down) */
