@@ -568,7 +568,7 @@ footer:hover {
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     text-shadow: 2px 2px 4px #000;
-    font-size: 50px;
+    font-size: 4vmin;
     color: #87CEEB;
     opacity: .9;
     padding: 50px 0;
@@ -578,7 +578,7 @@ footer:hover {
     padding-top: 10px;
     font-family: 'Lato', sans-serif;
     font-weight: 700;
-    font-size: 25px;
+    font-size: 2vmin;
     color: #000;
     text-shadow: 2px 2px 4px #fff;
 }
