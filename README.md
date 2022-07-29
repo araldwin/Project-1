@@ -51,3 +51,7 @@ as a developer, I want to be able to inform and show users how beautiful the pla
 ### Languages used
 - HTML5
 - CSS3
+### Others
+- [Coolors.co](https://coolors.co) - used to create color palette.
+- [Google Fonts](https://fonts.google.com) - where i import and use font-style for this project.
+- [Fontawesome](https://fontawesome.com/icons/) - where i import font icons for this project.
