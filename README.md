@@ -6,7 +6,7 @@
 3. [Features](#features)
 4. [Typography and color scheme](#typography-and-color-scheme)
 5. [wireframes](#wireframes)
-6. Technology
+6. [Technology](#technology)
 7. testing
    - 7.1 code validation
    - 7.2 test cases (user story based with screenshots)
@@ -46,3 +46,8 @@ as a developer, I want to be able to inform and show users how beautiful the pla
 -----
 ## wireframes
 - [Balsamiq](https://balsamiq.com) - i used balsamiq to create [wireframes](https://balsamiq.cloud/shny6lm/pz4i6g4/rE2F0) for my project.
+-----
+## Technology
+### Languages used
+- HTML5
+- CSS3
