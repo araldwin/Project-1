@@ -454,12 +454,16 @@ footer:hover {
     margin: 40px 0;
 }
 
+.form-text a {
+    text-decoration: none;
+}
+
 .form-text h1,
 .form-text p {
     color: #000;
     font-family: 'Montserrat', sans-serif;
     text-shadow: 2px 2px 4px #fff;
-    font-size: 35px;
+    font-size: 40px;
 }
 
 .form-text a {
@@ -517,6 +521,7 @@ footer:hover {
     width: 100%;
     text-align: center;
     cursor: pointer;
+    
 }
 
 #continue input {
@@ -524,6 +529,9 @@ footer:hover {
     width: 25%;
     transition: all .3s ease;
     opacity: .7;
+    border-radius: 25%;
+    font-size: 18px;
+    font-weight: 700;
 }
 
 #continue input:hover {
@@ -532,6 +540,8 @@ footer:hover {
     background-color: #87CEEB !important;
     opacity: 1;
     color: #000;
+    t
+    
 }
 
 /*thank you sub-page*/
@@ -852,6 +862,10 @@ text-shadow: 2px 2px 4px #fff;
 
     #cover-text h2 {
         font-size: 6vmin;
+    }
+
+    footer {
+        display: none;
     }
 
 }
