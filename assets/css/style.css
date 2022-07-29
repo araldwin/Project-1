@@ -592,7 +592,7 @@ footer:hover {
 }
 
 .not-found-container h1{
-    font-size: 200px;
+    font-size: 20vmin;
     padding: 50px;
     margin: 0;
     font-weight: 900;
@@ -603,14 +603,14 @@ footer:hover {
 }
 
 .not-found-container h2{
-padding: 50px;
-font-size: 35px;
+padding: 25px;
+font-size: 7vmin;
 text-shadow: 2px 2px 4px #fff;
 }
 
 .not-found-container p{
-    padding: 50px;
-    font-size: 30px;
+    padding: 25px;
+    font-size: 5vmin;
     text-shadow: 2px 2px 4px #fff;
 }
 
@@ -621,7 +621,7 @@ text-shadow: 2px 2px 4px #fff;
     padding: 16px 24px;
     display: inline-block;
     border-radius: 25px;
-    font-size: 14px;
+    font-size: 4vmin;
     text-transform: uppercase;
     transition: 0.4s;
 }
