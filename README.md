@@ -71,7 +71,17 @@ as a developer, I want to be able to inform and show users how beautiful the pla
 ![RBH-CSSvalidator](/docs/RBH-CSSvalidator.png)
 -----
 - [Nu Html Checker](https://validator.w3.org/nu/#textarea) - used to check the project html.
-   - index.html
+   - Index.html
 ![RBH-HTMLchecker](/docs/RBH-HTMLchecker.png)
 -----
-   - 
+   - Gallery.html
+![RBH-Gallerychecking](/docs/RBH-Gallerychecking.png)
+-----
+   - Book-now.html
+![RBH-Booknowchecking](/docs/RBH-Booknowchecking.png)
+-----
+   - Thankyou.html
+![RBH-Thankyouchecking](/docs/RBH-Thankyouchecking.png)
+-----
+   - 404.html
+![RBH-404checking](/docs/RBH-404checking.png)
