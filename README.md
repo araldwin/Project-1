@@ -69,3 +69,9 @@ as a developer, I want to be able to inform and show users how beautiful the pla
 ### 7.1 Code Validation
 - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input) - used to validate the project css.
 ![RBH-CSSvalidator](/docs/RBH-CSSvalidator.png)
+-----
+- [Nu Html Checker](https://validator.w3.org/nu/#textarea) - used to check the project html.
+   - index.html
+![RBH-HTMLchecker](/docs/RBH-HTMLchecker.png)
+-----
+   - 
