@@ -7,7 +7,7 @@
 4. [Typography and color scheme](#typography-and-color-scheme)
 5. [wireframes](#wireframes)
 6. [Technology](#technology)
-7. testing
+7. Testing
    - 7.1 code validation
    - 7.2 test cases (user story based with screenshots)
    - 7.3 fixed bugs
@@ -55,3 +55,15 @@ as a developer, I want to be able to inform and show users how beautiful the pla
 - [Coolors.co](https://coolors.co) - used to create color palette.
 - [Google Fonts](https://fonts.google.com) - where i import and use font-style for this project.
 - [Fontawesome](https://fontawesome.com/icons/) - where i import font icons for this project.
+- [Logo make](https://play.google.com/store/apps/details?id=splendid.logomaker.designer&hl=en&gl=US) - I used it to make my logo.
+- [Google maps](https://google.com/maps) - I used to embed the map at the Reyna beach house location
+- [Git](http://gitscm.com) - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+- [Gitpod](https://gitpod.io) - IDE used to code the project.
+- [Visual Studio Code for Windows]() - IDE used to code the project.
+- [GitHub](https://github.com) - GitHub is used to store the project's code after being pushed from Git.
+- [Am I Responsive](https://ui.dev/amiresponsive) - - online tool used to create mockup to present responsive design of this project.
+- []()
+- []()
+- []()
+- []()
+- []()
