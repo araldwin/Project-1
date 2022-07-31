@@ -85,6 +85,8 @@ as a developer, I want to be able to inform and show users how beautiful the pla
 #### 404.html
 ![RBH-404checking](/docs/RBH-404checking.png)
 -----
+### Lighthouse report
+![RBH-lighthouse](/docs/RBH-lighthouse.png)
 ### 7.3 fixed bugs
 - There was a problem with responsive design when using such a standard screen size that needed to be fixed, it was fixed by placing media queries and adjusting font letter sizes.
 ![RBH-Bugfixed](/docs/RBH-Bugfixed.png)
