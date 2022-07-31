@@ -14,7 +14,7 @@
 8. [Deployment](#deployment)
    - via gitpod
    - via github pages
-9. credits
+9. [Credits](#credits)
 
 ## Purpose of the project
 This Private beach house website was made for portfolio project #1 (HTML&CSS) for Diploma in Full Stack Software Development at [Code Institute](https://codeinstitute.net/).
@@ -113,3 +113,15 @@ as a developer, I want to be able to inform and show users how beautiful the pla
    - select "deploy from a branch" in Source, select "main" and "root" in Branch and save.
 ![githubdeployment](/docs/githubdeployment.png)
    - click the given weblink [araldwin.github.io/project-1/](https://araldwin.github.io/Project-1/).
+
+## Credits
+   - [W3C School](https://www.w3schools.com/) - for more knowledge that I learned.
+   - Code institute README.md Template
+   - Google images for the beach background
+## Acknowledgements
+   - Mr. Rohit to my mentor for giving me Readme template.
+   - Slack community
+   - Code institute
+
+## Disclaimer
+   - Reyna beach house was created for educational purpose only.
