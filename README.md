@@ -9,7 +9,6 @@
 6. [Technology](#technology)
 7. [Testing](#testing)
    - 7.1 Code Validation
-   - 7.2 test cases (user story based with screenshots)
    - 7.3 fixed bugs
    - 7.4 supported screens and browsers
 8. Deployment
@@ -85,3 +84,17 @@ as a developer, I want to be able to inform and show users how beautiful the pla
 -----
 #### 404.html
 ![RBH-404checking](/docs/RBH-404checking.png)
+-----
+### 7.3 fixed bugs
+- There was a problem with responsive design when using such a standard screen size that needed to be fixed, it was fixed by placing media queries and adjusting font letter sizes.
+![RBH-Bugfixed](/docs/RBH-Bugfixed.png)
+
+### 7.4 supported screens and browsers
+- Supported browsers
+   - Google Chrome
+   - Microsoft Edge
+   - Safari
+
+- Supported screens
+   - Such a viewport was obtained from the am i responsive website where it was used to have an appropriate size for responsive design.
+![RBH-viewports](/docs/RBH-viewports.png)
