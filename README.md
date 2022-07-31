@@ -11,7 +11,7 @@
    - 7.1 Code Validation
    - 7.3 fixed bugs
    - 7.4 supported screens and browsers
-8. Deployment
+8. [Deployment](#deployment)
    - via gitpod
    - via github pages
 9. credits
@@ -98,3 +98,18 @@ as a developer, I want to be able to inform and show users how beautiful the pla
 - Supported screens
    - Such a viewport was obtained from the am i responsive website where it was used to have an appropriate size for responsive design.
 ![RBH-viewports](/docs/RBH-viewports.png)
+
+## Deployment
+- via gitpod
+   - go to and log in to [github](https://github.com/).
+   - after login. on the top right side of the page next to the bell icon click on the "+" and select "New repository".
+   - now i can create a new repository. put repository template, repository name, its description and other options, after that just go to the bottom and press "Create repository" and then it take me to gitpod.
+
+- via github
+   - go to and log in to [github](https://github.com/).
+   - magtungo sa repository at piliin ang [Project-1](https://github.com/araldwin/Project-1).
+   - after that head to [setting](https://github.com/araldwin/Project-1/settings).
+   - find and click "Pages" in the Code and Automation column.
+   - select "deploy from a branch" in Source, select "main" and "root" in Branch and save.
+![githubdeployment](/docs/githubdeployment.png)
+   - click the given weblink [araldwin.github.io/project-1/](https://araldwin.github.io/Project-1/).
