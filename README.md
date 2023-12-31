@@ -21,7 +21,7 @@ This Private beach house website was made for portfolio project #1 (HTML&CSS) fo
 ## User stories
 as a developer, I want to be able to inform and show users how beautiful the place is, so they can experience what it feels like to vacation in a private beach house and enjoy it with family, or friends.
 ## Features
-- ### A Simple, Easy to Remember URL:[Reyna beach house](https://araldwin.github.io/Project-1/)
+- ### A Simple, Easy to Remember URL:[Reyna beach house](https://araldwin.github.io/Reyna-Beach-House/)
 -----
 - ### A Clear Description of My Business
 ![RBH-features](/docs/RBH-features.png)
@@ -109,12 +109,12 @@ as a developer, I want to be able to inform and show users how beautiful the pla
 
 - via github
    - go to and log in to [github](https://github.com/).
-   - magtungo sa repository at piliin ang [Project-1](https://github.com/araldwin/Project-1).
-   - after that head to [setting](https://github.com/araldwin/Project-1/settings).
+   - magtungo sa repository at piliin ang [Project-1](https://araldwin.github.io/Reyna-Beach-House/).
+   - after that head to [setting](https://github.com/araldwin/Reyna-Beach-House/settings/).
    - find and click "Pages" in the Code and Automation column.
    - select "deploy from a branch" in Source, select "main" and "root" in Branch and save.
 ![githubdeployment](/docs/githubdeployment.png)
-   - click the given weblink [araldwin.github.io/project-1/](https://araldwin.github.io/Project-1/).
+   - click the given weblink [https://araldwin.github.io/Reyna-Beach-House/](https://araldwin.github.io/Reyna-Beach-House/).
 
 ## Credits
    - [W3C School](https://www.w3schools.com/) - for more knowledge that I learned.
